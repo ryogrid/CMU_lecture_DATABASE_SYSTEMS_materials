@@ -10,6 +10,6 @@ https://15445.courses.cs.cmu.edu/fall2021/
 # ライセンス（License）
 本リポジトリに置いてあるドキュメント（pdfファイル）は [CMU DATABASE GROUP](https://db.cs.cmu.edu/) により作成されたものであり、[表示 3.0 非移植 (CC BY 3.0) ライセンス](https://creativecommons.org/licenses/by/3.0/deed.ja) の下に提供されています。  
 
-Documents (pdf files) on this repository are creted by [CMU DATABASE GROUP](https://db.cs.cmu.edu/)  and distrited under [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/deed.en) license.
+Documents (pdf files) on this repository are created by [CMU DATABASE GROUP](https://db.cs.cmu.edu/)  and distrited under [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/deed.en) license.
 
 
