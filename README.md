@@ -1,5 +1,5 @@
 # 概要
-本リポジトリには、米国カーネギーメロン大学（CMU）で開講されている『DATABASE SYSTEMS』の講義の slide と note が置いてあります。  
+本リポジトリには、米国カーネギーメロン大学（Carnegie Mellon University）で開講されている講義『DATABASE SYSTEMS』の slide と note が置いてあります。  
 https://15445.courses.cs.cmu.edu/fall2021/  
 数年来、毎年開講されている講義ですが、本リポジトリでは2021年秋に行われた講義でのものです。  
 
