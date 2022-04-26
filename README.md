@@ -8,7 +8,7 @@ https://15445.courses.cs.cmu.edu/fall2021/
 [CMU lecture "DATABASE SYSTEMS" / Fall 2021](https://www.youtube.com/playlist?list=PLiGMZiD2v76lInN3Sq68ZXtCraw627q5o)
 
 同講義では、学生にRDBMSを実際に実装させるという課題が与えられ、具体的にはBusTubと呼ばれる教育用RDBMSの歯抜けになった実装箇所を埋めるというものになっています。  
-同RDBMSは以下のGitHubリポジトリでホストされています。  
+同RDBMSのコードは以下のGitHubリポジトリでホストされています。  
 [cmudb/bustub](https://github.com/cmu-db/bustub)
 
 # 本リポジトリ作成の目的
