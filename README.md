@@ -4,7 +4,8 @@ https://15445.courses.cs.cmu.edu/fall2021/
 数年来、毎年度開講されている講義ですが、本リポジトリのものは2021年秋に行われた講義でのものです。  
 
 講義の動画はYoutubeで公開されています。  
-以下は同講義の動画のシリーズをまとめた playlist です。    
+以下は同講義の動画のシリーズをまとめた playlist です。   
+（日本語の自動字幕を表示させ、再生速度を落とすと、英語が得意でなくてもなんとかついていけるのでおススメです）     
 [CMU lecture "DATABASE SYSTEMS" / Fall 2021](https://www.youtube.com/playlist?list=PLiGMZiD2v76lInN3Sq68ZXtCraw627q5o)
 
 同講義では、学生にRDBMSを実際に実装させるという課題が与えられ、具体的にはBusTubと呼ばれる教育用RDBMSの歯抜けになった実装箇所を埋めるというものになっています。  
